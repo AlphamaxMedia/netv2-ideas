@@ -1,6 +1,8 @@
 # netv2-ideas
-Ideas for how to use NeTV2
+What would you do with the right to process encrypted videos?
 
-Contribute your idea on how to use an NeTV2 by opening an issue against this repo!
+Contribute your idea by opening an Issue against this repo! Issues allow anyone with a github account to comment on a git repository.
 
-You don't have to write up your whole idea here; you can also just link to a write-up using your favorite system for editing and sharing ideas (gdocs, pastebin, etc.)
+Just click on the "(!) Issues" tab to the left of the "<> Code" tab almost directly above the name of the repository to access the Issues interface.
+
+You can also just link to a write-up using your favorite system for editing and sharing ideas (gdocs, wiki, pastebin, your own github repository, etc.) inside the Issue. 
