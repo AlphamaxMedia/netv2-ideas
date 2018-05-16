@@ -1,5 +1,4 @@
-# netv2-ideas
-What would you do with the right to process encrypted videos?
+# What would you do with the right to process encrypted videos?
 
 Contribute your idea by opening an Issue against this repo! Issues allow anyone with a github account to comment on a git repository.
 
